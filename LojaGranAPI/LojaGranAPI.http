@@ -1,0 +1,6 @@
+@LojaGranAPI_HostAddress = http://localhost:5181
+
+GET {{LojaGranAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
